@@ -31,7 +31,7 @@ a:link {
   display: block;
   min-width: 0;
   overflow: hidden;
-  width: 300px;
+  width: 450px;
   margin: 0;
   padding: 0;
 }
@@ -39,11 +39,11 @@ a:link {
 #content {
   margin-top: 20px;
   float: left;
-  width: 700px;
+  width: 600px;
 }
 
 #content p {
   color: #333;
-  line-height: 18px;
+  line-height: 20px;
 }
 

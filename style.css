@@ -103,3 +103,12 @@ a:active {
   line-height: 22px;
 }
 
+#booklinks li {
+	a:link {
+		color: blue;
+		font-weight: normal;
+	}
+	
+	
+
+}
